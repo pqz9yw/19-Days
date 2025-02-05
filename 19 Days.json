@@ -1,0 +1,29 @@
+{
+  "title": "19 Days",
+  "description": "",
+  "artist": "",
+  "author": "Old Xian",
+  "cover": "https://i.pinimg.com/736x/09/2b/f9/092bf9a2ebac032cb1153422397977f9.jpg",
+  "chapters": {
+    "1": {
+      "title": "Chapter 001-070",
+      "volume": "",
+      "last_updated": "1738777907",
+      "groups": {
+        "": [
+          "https://drive.usercontent.google.com/download?id=1fe26ZZLXnKG6AJAorJoi1VdXYSyXNnwF"
+        ]
+      }
+    },
+    "2": {
+      "title": "Chapter 071-100",
+      "volume": "",
+      "last_updated": "1738778576",
+      "groups": {
+        "": [
+          "https://drive.usercontent.google.com/download?id=1_a5zcG0_f_oAV6dfS3U1X3KNbVzxUVWE"
+        ]
+      }
+    }
+  }
+}
